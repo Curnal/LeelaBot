@@ -1,5 +1,2 @@
-pynacl==1.2.1
-git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py
-pip
-os
-cffi --only-binary all; sys_platform == 'win32'
+asyncio
+git+https://github.com/Rapptz/discord.py@master
